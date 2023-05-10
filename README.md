@@ -1,7 +1,7 @@
 # Doctolib_Project_2023
 
 This is the repository of the project we, Amine-jabote and Youssef-Sidqui, are creating for a subject called LO07, at the UTT university (France).
-The objective of the project is to make a .
+The objective of the project is to make an online booking platform for doctors, dentists, and other healthcare professionals. It is a website that connects patients with healthcare practitioners, allowing them to search for available appointments and book appointments online.
 
 ## Technologies used
 
