@@ -5,7 +5,12 @@ The objective of the project is to make an online booking platform for doctors, 
 
 ## Technologies used
 
-We are using PHP MySQL Bootstrap.
+We are using PHP MySQL Bootstrap.5.
+
+
+## Why not a framework 
+
+Our project was developed using the MVC method (Model, View, Controller) for the design of the software architecture. Unlike some similar projects, we did not use a framework for the development of our website. This decision was made to allow our team to better understand how the frameworks work and how to use them in future projects. So we built our own page access routing and control system. We also wrote our own code for data manipulation and session management. Although this approach took more time than using a framework, we are proud of the result and have gained a better understanding of MVC architecture and web programming in general.
 
 ## How to install
 
