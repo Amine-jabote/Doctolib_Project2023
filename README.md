@@ -28,17 +28,6 @@ You also need to install PHP, which is the programming language we used to creat
 To install this project from sources, you need to download the source code.
 
 
-#### Linux
-
-```
-```
-
-#### Windows
-
-```
-```
-
-
 ## Issues
 
 If you encounter any issues, let us know by creating an issue on GitHub.
